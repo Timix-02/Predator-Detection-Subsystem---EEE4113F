@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32h7xx_hal.h": "c",
+        "ov7670.h": "c",
+        "common.h": "c",
+        "ov7670config.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}
